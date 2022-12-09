@@ -40,4 +40,4 @@ print("--------------------------- MOSTRAR TOTALES -----------------------------
 print("Producto:",producto)
 print("Cantidad:",cantidad)
 print("Precio:",precio)
-print("Total:",total)
+print("BYDAN - Total:",total)
