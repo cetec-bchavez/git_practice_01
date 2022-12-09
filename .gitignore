@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# ME Folders / Files
+git_tasks/
+99_respaldo/
+51_practica_main.sh
+52_practica_rama.sh
+53_practica_local.sh
