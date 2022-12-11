@@ -100,4 +100,4 @@ tipo="NORMAL"     #:str
 
 impuesto = 0.14 if tipo=="NORMAL" else 0.0
 
-print("Impuesto Final",impuesto)
+print("UPDATED: Impuesto Final",impuesto)

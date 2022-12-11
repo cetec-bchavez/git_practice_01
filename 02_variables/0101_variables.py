@@ -58,4 +58,4 @@ nota1,nota2,promedio = 6.5,8.5,0.0
 
 promedio = (nota1 + nota2)/2
 
-print("Promedio=",promedio)
+print("UPDATED: Promedio=",promedio)

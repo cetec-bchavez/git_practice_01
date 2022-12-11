@@ -22,4 +22,4 @@ perimetro = 2*lado + 2*alto
 
 #sperimetro = str(perimetro)
 
-print("Perimetro =",perimetro)
+print("UPDATED: Perimetro =",perimetro)

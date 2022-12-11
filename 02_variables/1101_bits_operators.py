@@ -16,4 +16,4 @@ print("~a =", r)
  
 # print bitwise XOR operation
 r = a ^ b
-print("a ^ b =", r)
+print("UPDATED: a ^ b =", r)
